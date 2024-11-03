@@ -53,3 +53,4 @@ if __name__ == "__main__":
     draw_grid_with_images(base_image, grid_size, image_path)
     
     base_image.save("img2_mosaic.png")
+#xdddd
